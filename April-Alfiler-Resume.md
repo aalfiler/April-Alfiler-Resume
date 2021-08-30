@@ -20,6 +20,19 @@
 
 ## Projects:
 
+#### The Hotel Dilemma
+Supply and demand forecasting project that aims to predict hotel cancelations using ML models.
+
+Data Cleaning, Exploratory Data Analysis, Matplotlib, Machine Learning modeling using JupyterLab, Pandas, NumPy, Seaborn, Panel, Hvplot, Sklearn
+
+#### Crash Course in Cryptocurrencies
+Compare the data and trading movement of the cryptocurrencies asset class. Determine intra/cross similarities and differences between cryptocurrencies and other asset classes.
+
+Data Cleaning, Exploratory Data Analysis, Create Reports and Dashboard, Present Findings
+JupyterLab, Pandas, NumPy, Matplotlib, S
+
+
+
 
 
 ## Experience
