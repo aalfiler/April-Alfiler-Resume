@@ -47,5 +47,5 @@ Facilitated data transfers between medical institutions for the Life and Longevi
 
 
 # EDUCATION
-Certificate in FinTech: University of Washington, Seattle, WA, 2021
-Bachelor of Science, General Biology: University of Washington, Seattle, WA, 2014
+- Certificate in FinTech: University of Washington, Seattle, WA, 2021
+- Bachelor of Science, General Biology: University of Washington, Seattle, WA, 2014
