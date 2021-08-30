@@ -1,6 +1,6 @@
 # April Alfiler
 
-## Technical Skills:
+## TECHNICAL SKILLS:
 - Python | Pandas 
 - APIs
 - Data Visualization | Hvplot | Seaborn | Tableau
@@ -51,7 +51,7 @@ Initially hired as a Data Specialist and quickly advanced to a Supervisor role. 
 - Reduced turnaround time from shipme nt arrival to order activation by 75% within two quarters.
 - Coordinated the processing of 12,000 COVID-19 samples in the production lab when the company pivoted priorities in Q2 2020. Data generated from genetic sequencing resulted in the T-Detect COVIDTM product launched in December 2020 and gained Emergency Use Authorization by the FDA in March 2021
 
-### Data Coordinator II, Women’s Health Initiative 
+#### Data Coordinator II, Women’s Health Initiative 
 #### Fred Hutch Cancer Research Center, Seattle, WA, Sept 2016 – March 2018
 
 Facilitated data transfers between medical institutions for the Life and Longevity After Cancer (LILAC) Study. The goal of the study was to understand the long-term medical issues affecting women after their cancer treatments.
