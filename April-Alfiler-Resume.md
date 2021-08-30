@@ -1,4 +1,4 @@
-# April Alfiler
+# April Alfiler - Data Analyst | FinTech Developer
 
 ## TECHNICAL SKILLS:
 - Python | Pandas 
@@ -18,7 +18,7 @@
 - EPIC
 - Lab Information Management Systems (LIMS)
 
-## Projects:
+## PROJECTS:
 
 #### [The Hotel Dilemma](https://github.com/aalfiler/The_Hotel_Dilemma)
 Supply and demand forecasting project that aims to predict hotel cancelations using Machine Learning (ML) models.
@@ -37,7 +37,7 @@ Financial institutions receive an overwhelming amount of credit card and loan ap
 - ML models: Random forest, Decision Tree, Linear Regression, AdaBoost, KNN, Multilayer Perception and XGBoost
 
 
-## Experience
+## EXPERIENCE
 
 #### Supervisor, Study Management
 #### Adaptive Biotechnologies Corp. Seattle, WA, July 2018 – Present 
@@ -49,7 +49,7 @@ Initially hired as a Data Specialist and quickly advanced to a Supervisor role. 
 - Prepare periodic sample forecasts to help Supply Chain, Production Lab, and Senior Operations Management plan for sufficient materials, labor and overhead for processing samples.
 - Collaborate cross-functionally with Research and Development, Antigen Map Program, SoftwareEngineering, Business Development, Quality Control and Production Lab to
 - Reduced turnaround time from shipme nt arrival to order activation by 75% within two quarters.
-- Coordinated the processing of 12,000 COVID-19 samples in the production lab when the company pivoted priorities in Q2 2020. Data generated from genetic sequencing resulted in the T-Detect COVIDTM product launched in December 2020 and gained Emergency Use Authorization by the FDA in March 2021
+- Coordinated the processing of 12,000 COVID-19 samples in the production lab when the company pivoted priorities in Q2 2020. Data generated from genetic sequencing resulted in the T-Detect COVIDTM product launched in December 2020 and gained Emergency Use Authorization by the FDA in March 2021.
 
 #### Data Coordinator II, Women’s Health Initiative 
 #### Fred Hutch Cancer Research Center, Seattle, WA, Sept 2016 – March 2018
@@ -62,6 +62,6 @@ Facilitated data transfers between medical institutions for the Life and Longevi
 - Created a tracking system for incoming medical records and outgoing requests that improvedrecord acquisition efficiency by 80%.
 
 
-## Education
+## EDUCATION
 - Certificate in Financial Technology: University of Washington, Seattle, WA, Nov 2020 - May 2021
 - Bachelor of Science, General Biology: University of Washington, Seattle, WA, Sep 2009 - Jun 2014
